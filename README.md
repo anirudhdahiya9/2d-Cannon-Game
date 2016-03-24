@@ -13,16 +13,16 @@ Use ./game to play
 CONTROLS :
 
 
-launch  : <space>
+launch  : space
 
 
-Increase cannon inclination : <UP>
+Increase cannon inclination : UP
 
 
-Decrease cannon Inclination : <DOWN>
+Decrease cannon Inclination : DOWN
 
 
-Power Increase : <PAGE UP>
+Power Increase : PAGE UP
 
 
-Power Decrease : <PAGE DOWN>
+Power Decrease : PAGE DOWN
