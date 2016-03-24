@@ -1,0 +1,10 @@
+all: sample3D sample2D
+
+sample3D: Sample_GL3.cpp
+	g++ -o sample3D Sample_GL3.cpp -lGL -lGLU -lGLEW -lglut 
+
+sample2D: Sample_GL3_2D.cpp
+	g++ -o sample2D Sample_GL3_2D.cpp -lGL -lGLU -lGLEW -lglut 
+clean:
+	rm sample2D sample3D
+
